@@ -24,7 +24,7 @@ gem "jbuilder"
 # gem "redis", ">= 4.0.1"
 
 # Gemfile
-gem "simple_form", "~> 5.1.0"
+gem "simple_form", "~> 5.3.1"
 
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
 # gem "kredis"
