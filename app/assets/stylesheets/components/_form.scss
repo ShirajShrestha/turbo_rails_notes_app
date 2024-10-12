@@ -1,11 +1,13 @@
 .form {
   display: flex;
   flex-wrap: wrap;
-  gap: var(--space-xs) &_group {
+  gap: var(--space-xs);
+
+  &__group {
     flex: 1;
   }
 
-  &_input {
+  &__input {
     display: block;
     width: 100%;
     max-width: 100%;

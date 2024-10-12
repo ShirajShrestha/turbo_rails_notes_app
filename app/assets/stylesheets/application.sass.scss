@@ -1,6 +1,6 @@
 // Entry point for your Sass build
 // Minins
-@import "minins/media";
+@import "mixins/media";
 
 // Configuration
 @import "config/variables";
@@ -12,6 +12,7 @@
 @import "components/form";
 @import "components/quote";
 @import "components/visually_hidden";
+@import "components/turbo_progress_bar";
 
 // Layouts
 @import "layouts/container";
